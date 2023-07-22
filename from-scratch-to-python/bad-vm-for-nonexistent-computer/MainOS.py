@@ -1,2 +1,2 @@
->> import BIOS-BVM.py
+from BasicIOSystem import BIOS
 BIOS()
