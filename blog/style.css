@@ -1,0 +1,22 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: Verdana;
+  }
+  
+  .text {
+    text-align: center;
+  }
+  
+  .smalltext {
+    font-size: 5em;
+  }
+  
+  @font-face {
+    font-family: linja-sike;
+    src: url(/linja-sike-5.otf);
+  }
+  
+  .sitelenpona {
+    font-family: linja-sike;
+  }
